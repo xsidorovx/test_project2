@@ -1,2 +1,1 @@
-# first_project
-DS|Practice
+Тестовый репощиторий для работы с GitHub
